@@ -10,8 +10,8 @@ Through my intensive training at Ultra Code KamaTech and MAHAT, alongside hands-
 
 * **Backend Development:** ASP.NET Core, ASP.NET, Web API, Node.js, Express.
 * **Frontend Engineering:** Angular, React, JavaScript (ES6), TypeScript, HTML5, CSS3.
-* **Databases & Architecture:** SQL Server (Relational), MongoDB (NoSQL), OOP, Design Patterns, 3-Tier Architecture, Repository Pattern.
-* **Systems & Tools:** Git, GitHub, Linux, Docker, In-Memory Data Engines.
+* **Databases & Architecture:** SQL Server (Relational), MongoDB (NoSQL), OOP, Design Patterns.
+* **Systems & Tools:** Git, GitHub, Linux, Docker, DevOps.
 
 ---
 
